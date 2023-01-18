@@ -1,0 +1,10 @@
+ body {background-color: rgb(157, 207, 251);}
+ h1 {color: rgb(241, 140, 27);
+text-align: center;}
+p { color: rgb(23, 32, 156); font-weight: 300; text-align: center;}
+.main{font-style: italic;
+    display: flex;
+    border: 5px solid rgb(10, 10, 10);
+}
+#new {color: rgb(18, 60, 158) ;
+}
